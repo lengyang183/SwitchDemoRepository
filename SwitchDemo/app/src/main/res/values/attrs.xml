@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchView">
+        <attr name="colorLeft" format="color"></attr>
+        <attr name="colorRight" format="color"></attr>
+        <attr name="colorFaceLeft" format="color"></attr>
+        <attr name="colorFaceRight" format="color"></attr>
+    </declare-styleable>
+</resources>
